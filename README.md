@@ -12,14 +12,9 @@ Este repositório contém projetos de Business Intelligence desenvolvidos no Pow
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| Vendas Regionais | Dashboard com análise de vendas por região, produto e canal | Power BI, DAX, Excel |
-| Faculdade | Indicadores de Faltas, não pagamentos e Formados | Power BI, Power Query, CSV |
 | RH Analytics | Análise de turnover, absenteísmo e perfil de colaboradores | Power BI, SQL |
 
 ## 📁 Organização
-
-- `/Vendas_Regionais/` → Arquivo `.pbix` + explicação do dashboard  
-- `/Faculdade /` → Arquivo `.pbix` + fontes de dados dummy  
 - `/RH_Analytics/` → Dashboard + código M para transformação de dados
 
 ## ✨ Objetivo
